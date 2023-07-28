@@ -4,13 +4,14 @@ It is a Time Cycle Task Manager that helps people to stay focused in something f
 
 ### What we have here
 
-- Main concepts about some React hooks as useEffect, useState...;
+- Main concepts about some React hooks as useEffect, useState, useReducer, useContext...;
 - We have Styled Components as a styling Lib;
 - TypeScript;
 - Some good Clean Code practice;
 - React Hook Form;
 - Validation with Zod;
 - Immutability, Closures concepts....
+- React Lib for state maintence AKA immer;
 
 ### Please make yourself confortable to look into this repository. :D
 
